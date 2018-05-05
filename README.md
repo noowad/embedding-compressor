@@ -10,12 +10,6 @@
 ## Execution
 - STEP 0. Downloading GloVe vectors (from https://nlp.stanford.edu/projects/glove/)
 - STEP 1. Adjust hyper parameters in `hyperparams.py`.
-<<<<<<< HEAD
 - STEP 2. Run python `train.py` for training.
 - STEP 3. Run python `eval.py` for evaluating. 
 - STEP 4. Run python `export.py` for exporting compressed embedding matrix.
-=======
-- STEP 2. Run python `train.py` for training
-- STEP 3. Run python `eval.py` for evaluating 
-- STEP 4. Run python `export.py` for exporting compressed embedding matrix
->>>>>>> origin/master
