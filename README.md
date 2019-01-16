@@ -4,7 +4,7 @@
 - Pre-trained GloVe vectors 
 ## Notes
 - This is an implementation of ["Compressing Word Embeddings via Deep Compositional Code Learning (ICLR, 2018)"](https://arxiv.org/abs/1711.01068 "").
-- I tried to implement this paper for understanding the paper, based on the original writer's codes even though the original codes are well-constructed and easy to understand :)
+- I tried to implement this method for understanding the paper, based on the original writer's codes even though the original codes are well-constructed and easy to understand :)
 - The original codes: [nncompress: Implementations of Embedding Quantization (Compress Word Embeddings)](https://github.com/zomux/neuralcompressor "")
 - I didn't test for machine translation and sentiment analysis tasks using compressed word embedding.
 ## Execution
